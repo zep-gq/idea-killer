@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# Eval workspace (本地测试数据，不上传)
+*-workspace/
