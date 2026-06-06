@@ -346,16 +346,6 @@ idea-killer/
 
 <br>
 
-## 📜 Version History
-
-| Version | Date | Description |
-|---------|------|-------------|
-| **v1.2.0** | 2026-06-06 | 🏗️ Domain-specific checks (12 industries) + Agent region adaptation + Data reliability safeguards + 3D OPC feasibility |
-| **v1.1.0** | 2026-06-06 | 👥 Dual perspective support (OPC / Team) + Missing files added |
-| **v1.0.0** | 2026-06-06 | 🎉 Initial release: dual mode + 7 models + 3 agents |
-
-<br>
-
 ## 🛡️ License
 
 MIT License — Free to use, modify, and distribute.
