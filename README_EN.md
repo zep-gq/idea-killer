@@ -38,15 +38,44 @@ English · [中文](README.md)
 
 <br>
 
-## 🚀 Quick Start
+## 🚀 Installation
 
-### Installation
+### Option 1: One-liner
 
-Place the `idea-killer` directory in your Claude Code skills path.
+```bash
+npx skills add zep-gq/idea-killer
+```
 
-### Triggering
+Supports 55+ AI agent runtimes (Claude Code, Codex, Cursor, Gemini CLI, etc.). Specify a runtime with `-a`:
 
-In Claude Code conversations, the following phrases will auto-trigger the skill:
+```bash
+npx skills add zep-gq/idea-killer -a claude-code
+```
+
+### Option 2: Manual install
+
+```bash
+git clone https://github.com/zep-gq/idea-killer.git
+```
+
+Place the `idea-killer` directory in your agent's skills directory. Common paths:
+
+| Runtime | Skills Directory |
+|---------|------------------|
+| Claude Code | `~/.claude/skills/` |
+| Cursor | `.cursor/skills/` |
+| Codex | `.codex/skills/` |
+| Others | Check your runtime's docs |
+
+### Option 3: Direct use
+
+Even if your runtime doesn't support the skills protocol, just paste `SKILL.md` content into your conversation — it's just a markdown document.
+
+<br>
+
+## 🎯 Triggering
+
+Idea Killer auto-triggers when you describe a startup or product idea:
 
 ```
 "Help me evaluate this idea"

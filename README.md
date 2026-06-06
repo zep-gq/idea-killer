@@ -38,15 +38,44 @@
 
 <br>
 
-## 🚀 快速开始
+## 🚀 安装
 
-### 安装
+### 方式一：一行命令
 
-将 `idea-killer` 目录放入你的 Claude Code skills 路径即可。
+```bash
+npx skills add zep-gq/idea-killer
+```
 
-### 触发方式
+支持 55+ AI agent runtime（Claude Code、Codex、Cursor、Gemini CLI 等）。需要指定 runtime 时加 `-a` 参数：
 
-在 Claude Code 对话中，以下表述会自动触发：
+```bash
+npx skills add zep-gq/idea-killer -a claude-code
+```
+
+### 方式二：手动安装
+
+```bash
+git clone https://github.com/zep-gq/idea-killer.git
+```
+
+将 `idea-killer` 目录放入你的 agent 的 skills 目录即可。常见路径：
+
+| Runtime | Skills 目录 |
+|---------|-------------|
+| Claude Code | `~/.claude/skills/` |
+| Cursor | `.cursor/skills/` |
+| Codex | `.codex/skills/` |
+| 其他 | 参考对应文档 |
+
+### 方式三：直接使用
+
+即使你的 runtime 不支持 skills 协议，也可以直接把 `SKILL.md` 的内容粘贴进对话——它本质就是一份 markdown 文档。
+
+<br>
+
+## 🎯 触发方式
+
+当你描述一个创业点子或产品想法时，Idea Killer 会自动触发：
 
 ```
 "帮我评估一个点子"
