@@ -82,6 +82,123 @@ In Claude Code conversations, the following phrases will auto-trigger the skill:
 
 <br>
 
+## 📋 Real Case Studies
+
+> These are real evaluations performed by Idea Killer. All conclusions are backed by searched market data.
+
+---
+
+### 🔴 Case 1: Anonymous Social Confession App — Deep Mode
+
+**Idea**: A platform where anyone can anonymously share emotions and secrets. Solo founder, weekend project.
+
+**Verdict: 🔴 Kill it**
+
+| Model | Result | Key Finding |
+|-------|--------|-------------|
+| 🚦 Traffic Light | 🔴 Kill | 3 red lights (differentiation, willingness to pay, OPC feasibility), 0 green |
+| 🏗️ Domain Check | 🔴 High risk | Social: content moderation costs spiral + cyberbullying + compliance red lines |
+| 📊 Value-Complexity | 🔴 No point | Low value × high complexity — worst quadrant |
+| ⚔️ Five Forces | 🔴 Hostile | All 5 dimensions unfavorable |
+| 💀 Fatal Assumptions | 🔴 Failed | 3 of 5 fatal assumptions likely invalid |
+| 📋~⚡ | ⏭️ Skipped | Early termination: verdict already clear |
+
+**Agent Research Findings**:
+- ~90% mortality rate: Secret, Yik Yak, Sarahah, Formspring all shut down
+- 100% of failures linked to content moderation / safety management failure
+- All successes relied on piggybacking large platforms (NGL → Instagram, Sendit → Snapchat)
+
+**Silver Linings & Pivots**:
+
+> 💡 The "emotional need" direction is right — the vehicle is wrong.
+
+| Pivot | Description | Feasibility |
+|-------|-------------|-------------|
+| 🅰️ Anonymous interaction mini-app | Don't build standalone — use WeChat mini-program, offload moderation | ⭐⭐⭐ |
+| 🅱️ Vertical anonymous venting | Focus on devs / exam prep / specific communities — lower moderation burden | ⭐⭐⭐ |
+| 🅲️ **AI emotional companion (highly recommended)** | Remove social — user vents, AI responds. No moderation, no cold start, weekend-buildable | ⭐⭐⭐⭐⭐ |
+
+> 🪞 _"Do users want 'anonymous socializing' or 'a judgment-free space'? If the latter, AI companionship may serve the need better — without the moderation nightmare."_
+
+---
+
+### 🟡 Case 2: AI Therapy Chatbot — Quick Mode
+
+**Idea**: An AI chatbot that uses psychological methods to help people manage anxiety and low moods. Solo founder, weekend project.
+
+**Verdict: 🟡 Needs Validation**
+
+| Dimension | Light | Reasoning |
+|-----------|-------|-----------|
+| Necessity | 🟡 | Real demand but many alternatives (Calm, Headspace, Character.ai) |
+| Differentiation | 🟡 | More interactive than meditation apps, cheaper than real therapy — but Woebot/Wysa exist |
+| Reachability | 🟢 | "Anxiety" and "mental health" are search hotspots, clear content marketing path |
+| Willingness to Pay | 🟡 | Category has paying users (Calm $69.99/yr), but "AI chat therapy" payment habit unproven |
+| OPC Feasibility | 🟡 | Tech ✅ + Ops ✅ (1-to-1 chat needs no moderation) + Compliance ⚠️ (mental health gray zone) |
+
+**Domain Check Triggered**:
+
+```
+Matched domains: 🤖 AI/Data + 🏥 Healthcare
+
+⚠️ Compliance risks:
+  • Generative AI requires filing (China's "Interim Measures")
+  • Must position as "emotional support tool", not "diagnosis/treatment"
+  • AI output causing delayed medical care = potential legal liability
+```
+
+**Levels Quick Validation**: 3/3 ✅
+
+| Pivot | Description |
+|-------|-------------|
+| 🅰️ Vertical AI companion | "Exam anxiety buddy" or "new mom emotional support" — narrower = lower compliance risk |
+| 🅱️ **AI mood journal** | Users write, AI gives psychology-framework feedback. Lighter product, lower risk |
+| 🅲️ Launch overseas first | FDA is lenient on "wellness" apps — validate abroad, then consider China |
+
+---
+
+### 🟢 Case 3: Chrome Extension — Auto Price Comparison for Cross-Border Sellers — Quick Mode
+
+**Idea**: A Chrome extension that automatically shows Amazon prices and profit margins when sellers browse 1688/Taobao.
+
+**Verdict: 🟢 Go for it**
+
+| Dimension | Light | Reasoning |
+|-----------|-------|-----------|
+| Necessity | 🟢 | Core pain point — manual price comparison is extremely time-consuming |
+| Differentiation | 🟢 | 1688 → Amazon auto-comparison has no direct competitor |
+| Reachability | 🟢 | Sellers cluster in TikTok/WeChat groups/Zhihu — precise targeting |
+| Willingness to Pay | 🟢 | Sellers already pay for ERP tools ($20-50/mo) — paying habit established |
+| OPC Feasibility | 🟢 | Chrome extension + simple API, weekend-buildable |
+
+**Levels Quick Validation**: 3/3 ✅
+
+**Recommendation**: Build MVP immediately, validate in one cross-border seller WeChat group.
+
+---
+
+### ⚔️ Case 4: College Student Skill Swap Platform — Deep Mode
+
+**Idea**: A platform where college students can exchange skills (PS, coding, English) with each other, no money involved. 3-person team.
+
+**Verdict: 🟡 Modify and Proceed**
+
+| Model | Result | Key Finding |
+|-------|--------|-------------|
+| 🚦 Traffic Light | 🟡 Validate | Necessity 🟢 + Differentiation 🟡 + Reach 🟢 + WTP 🔴 + Team Feasibility 🟢 |
+| 🏗️ Domain Check | 🟡 Social + Education | Cold start valley + campus promotion costs |
+| 📊 Value-Complexity | 🟡 Fill | Medium value × medium complexity |
+| ⚔️ Five Forces | 🟡 Average | Many substitutes (clubs, Xianyu, WeChat groups), but free skill swap is untapped |
+| 💀 Fatal Assumptions | ⚠️ Uncertain | "Students prefer skill swapping over paying" — needs validation |
+
+**Key Risk**: Willingness to pay is red — pure free model has no revenue. Need a value-added monetization path.
+
+**Recommended Modification**: Don't do "skill swap" — do "skill paid + first lesson free trial" — preserves community feel but has clear monetization.
+
+---
+
+<br>
+
 ## 📐 Evaluation Flow
 
 ### Quick Mode
