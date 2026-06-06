@@ -43,19 +43,19 @@
 ### 方式一：一行命令
 
 ```bash
-npx skills add zep-gq/idea-killer
+npx skills add zephyrgq/idea-killer
 ```
 
 支持 55+ AI agent runtime（Claude Code、Codex、Cursor、Gemini CLI 等）。需要指定 runtime 时加 `-a` 参数：
 
 ```bash
-npx skills add zep-gq/idea-killer -a claude-code
+npx skills add zephyrgq/idea-killer -a claude-code
 ```
 
 ### 方式二：手动安装
 
 ```bash
-git clone https://github.com/zep-gq/idea-killer.git
+git clone https://github.com/zephyrgq/idea-killer.git
 ```
 
 将 `idea-killer` 目录放入你的 agent 的 skills 目录即可。常见路径：
