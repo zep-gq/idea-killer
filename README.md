@@ -4,11 +4,11 @@
 
 ### _杀得快，比选得准更重要_
 
-**结构化创业点子评估工具** — 帮助 OPC（一人公司）和小团队<br>在投入时间之前，用真实数据快速淘汰不靠谱的点子。
+**用数据杀掉坏点子，把时间留给好点子。** 🔪💡
 
-[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://github.com/zep-gq/idea-killer)
+结构化创业点子评估工具 — 帮助 OPC（一人公司）和小团队<br>在投入时间之前，用真实数据快速淘汰不靠谱的点子。
+
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Made for Claude Code](https://img.shields.io/badge/Made%20for-Claude%20Code-orange.svg)](https://claude.com/claude-code)
 
 [English](README_EN.md) · 中文
 
@@ -367,11 +367,3 @@ idea-killer/
 ## 🛡️ License
 
 MIT License — 自由使用、修改和分发。
-
----
-
-<div align="center">
-
-**用数据杀掉坏点子，把时间留给好点子。** 🔪💡
-
-</div>

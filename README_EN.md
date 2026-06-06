@@ -4,11 +4,11 @@
 
 ### _Kill fast. Kill often. Kill before you invest time._
 
-**A structured startup idea evaluation tool** — helping solo founders (OPCs) and small teams<br>kill bad ideas fast with real data, before wasting a single weekend.
+**Kill bad ideas with data. Save your time for the good ones.** 🔪💡
 
-[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://github.com/zep-gq/idea-killer)
+A structured startup idea evaluation tool — helping solo founders (OPCs) and small teams<br>kill bad ideas fast with real data, before wasting a single weekend.
+
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Made for Claude Code](https://img.shields.io/badge/Made%20for-Claude%20Code-orange.svg)](https://claude.com/claude-code)
 
 English · [中文](README.md)
 
@@ -359,11 +359,3 @@ idea-killer/
 ## 🛡️ License
 
 MIT License — Free to use, modify, and distribute.
-
----
-
-<div align="center">
-
-**Kill bad ideas with data. Save your time for the good ones.** 🔪💡
-
-</div>
